@@ -8,7 +8,7 @@ Game dodge the memes yang seru dengan suara-suara meme kocak!
 - Hindari semua emoji meme!
 
 ## *🚀 Play Now*
-(https://2310115104-ai.github.io/meme-dodge-game-/)
+(https://2310115104-ai.github.io/dodge-game/)
 
 ## *🔊 Features*
 - 8 emoji unik dengan suara berbeda
