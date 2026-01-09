@@ -1,16 +1,16 @@
-## **🎮 Meme Dodge Master**
+## ***🎮 Meme Dodge Master***
 
 Game dodge the memes yang seru dengan suara-suara meme kocak!
 
-## *🎯 Cara Main*
+# **🎯 Cara Main**
 - Arrow UP / W - Gerak ke atas
 - Arrow DOWN / S - Gerak ke bawah
 - Hindari semua emoji meme!
 
-## *🚀 Play Now*
+# **🚀 Play Now**
 (https://2310115104-ai.github.io/dodge-game/)
 
-## *🔊 Features*
+# **🔊 Features**
 - 8 emoji unik dengan suara berbeda
 - Text-to-Speech meme sounds
 - High score system
